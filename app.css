@@ -45,8 +45,8 @@ text-shadow: 0 0 5px #01579b;
     transition: transform 0.5sec;
 }
 #florida {
-    background-color:#03a9f4;
+    background-color:teal;
 }
 #paris {
-    background-color:red;
+    background-color:orange;
 }
