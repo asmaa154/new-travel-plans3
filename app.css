@@ -41,15 +41,15 @@ transform: rotate (45deg)
 h2 {
 margin: 0;
 transform: rotate(-45deg) ;
-text-shadow: 0 0 5px #01579b;
+text-shadow: 0 0 5px rosybrown;
     transition: transform 0.6sec;
 }
 #florida {
-    background-color:teal;
+    background-color:burlywood;
 }
 #paris {
     background-color:orange;
 }
 #Turky {
-    background-color: purple;
+    background-color: green;
 }
